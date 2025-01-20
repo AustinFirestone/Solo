@@ -10,4 +10,4 @@ Next-gen Audio Notes
 - Confused button during transcription to get help
 - Smart Review to go over Concepts, Highlights, and Confusions
 
-*Status: Near complete, the code is private, you can find a demo in this repo or on the website*
+*Status: Complete, you can find us on the app store, just search "Solo ai". The code is private, you can find a demo in this repo or on the website*
